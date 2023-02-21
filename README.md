@@ -1,1 +1,1 @@
-# aichi-autolube.github.io
+# aichi-auto.github.io
